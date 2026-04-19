@@ -22,7 +22,7 @@ Our system scores leads based on company size, role, and tech fit, and generates
 5. Compare and choose best message
 
 ## Demo
-(https://drive.google.com/file/d/1DgvghxxNAa0otMkBMubyOHUpght6YCLF/view?usp=sharing)
+https://drive.google.com/file/d/1DgvghxxNAa0otMkBMubyOHUpght6YCLF/view?usp=sharing)](https://drive.google.com/file/d/15P3pUPDOMiIaA31gVuOHUjvbGJuRxW-3/view?usp=drive_link
 
 ## Tech Stack
 - ThinkRoot (Frontend Builder)
